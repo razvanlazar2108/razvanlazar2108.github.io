@@ -1,7 +1,9 @@
 # 📚 Biblioteca Mea de Teorie
 
-Bine ai venit! Alege domeniul pe care vrei să îl studiezi din lista de mai jos:
+Bine ai venit! Sper sa pot sa te ajut cat de mult pot. Alege domeniul din care iti doresti sa studiezi:
 
-* [Teorie Istorie](istorie.md)
-* [Teorie Geografie](geografie.md)
-* [Teorie Informatică](informatica.md)
+* [Structuri de Date și Algoritmi](sda.md)
+* [Algoritmică 1](a1.md)
+* [Algoritmică 2](a2.md)
+* [Algoritmică 3](a3.md)
+* [Machine Learning](ml.md)
